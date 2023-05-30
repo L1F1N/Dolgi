@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Zarubin21IS\prakt\obj\Debug\prakt.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Zarubin21IS\prakt\obj\Debug\prakt.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Zarubin21IS\prakt\obj\Debug\prakt.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Zarubin21IS\prakt\bin\Debug\prakt.exe.config
+C:\Users\student\Desktop\Zarubin21IS\prakt\bin\Debug\prakt.exe
+C:\Users\student\Desktop\Zarubin21IS\prakt\bin\Debug\prakt.pdb
+C:\Users\student\Desktop\Zarubin21IS\prakt\obj\Debug\prakt.exe
+C:\Users\student\Desktop\Zarubin21IS\prakt\obj\Debug\prakt.pdb
