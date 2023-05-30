@@ -1,0 +1,8 @@
+C:\Govno po mdk2\pract3\pract3\obj\Debug\pract3.csproj.AssemblyReference.cache
+C:\Govno po mdk2\pract3\pract3\obj\Debug\pract3.csproj.SuggestedBindingRedirects.cache
+C:\Govno po mdk2\pract3\pract3\obj\Debug\pract3.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\pract3\pract3\bin\Debug\pract3.exe.config
+C:\Govno po mdk2\pract3\pract3\bin\Debug\pract3.exe
+C:\Govno po mdk2\pract3\pract3\bin\Debug\pract3.pdb
+C:\Govno po mdk2\pract3\pract3\obj\Debug\pract3.exe
+C:\Govno po mdk2\pract3\pract3\obj\Debug\pract3.pdb
