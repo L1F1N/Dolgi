@@ -1,0 +1,24 @@
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.Form1.resources
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.Properties.Resources.resources
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.exe.config
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.exe
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.pdb
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.AboutBox1.resources
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.exe
+C:\Users\student\Desktop\Zarubin21IS\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.pdb
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.AssemblyReference.cache
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.AboutBox1.resources
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.Form1.resources
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.Properties.Resources.resources
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.GenerateResource.cache
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.csproj.CoreCompileInputs.cache
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.exe
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\obj\Debug\tekstovyu_redactor.pdb
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.exe.config
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.exe
+C:\Users\zarub\OneDrive\Рабочий стол\tekstovyu_redactor\bin\Debug\tekstovyu_redactor.pdb
