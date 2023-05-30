@@ -1,0 +1,8 @@
+C:\Govno po mdk2\laba\laba\bin\Debug\laba.exe.config
+C:\Govno po mdk2\laba\laba\bin\Debug\laba.exe
+C:\Govno po mdk2\laba\laba\bin\Debug\laba.pdb
+C:\Govno po mdk2\laba\laba\obj\Debug\laba.csproj.AssemblyReference.cache
+C:\Govno po mdk2\laba\laba\obj\Debug\laba.csproj.SuggestedBindingRedirects.cache
+C:\Govno po mdk2\laba\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\laba\laba\obj\Debug\laba.exe
+C:\Govno po mdk2\laba\laba\obj\Debug\laba.pdb
