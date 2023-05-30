@@ -1,0 +1,39 @@
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.AssemblyReference.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\App.g.cs
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.exe.config
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.exe
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.pdb
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\MainWindow.g.cs
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.lref
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\MainWindow.baml
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.g.resources
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.Properties.Resources.resources
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.GenerateResource.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.CoreCompileInputs.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.exe
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.pdb
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\Grafiky.exe.config
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\Grafiky.exe
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\Grafiky.pdb
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\EntityFramework.dll
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\EntityFramework.xml
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.AssemblyReference.cache
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\MainWindow.g.cs
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\App.g.cs
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky_Content.g.cs
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.cache
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.lref
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\MainWindow.baml
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.g.resources
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.Properties.Resources.resources
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.GenerateResource.cache
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.CoreCompileInputs.cache
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.CopyComplete
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.exe
+C:\Users\zarub\OneDrive\Рабочий стол\grafiky\Grafiky\Grafiky\obj\Debug\Grafiky.pdb
