@@ -1,0 +1,8 @@
+C:\Govno po mdk2\prakt 4\prakt 4\bin\Debug\prakt 4.exe.config
+C:\Govno po mdk2\prakt 4\prakt 4\bin\Debug\prakt 4.exe
+C:\Govno po mdk2\prakt 4\prakt 4\bin\Debug\prakt 4.pdb
+C:\Govno po mdk2\prakt 4\prakt 4\obj\Debug\prakt 4.csproj.AssemblyReference.cache
+C:\Govno po mdk2\prakt 4\prakt 4\obj\Debug\prakt 4.csproj.SuggestedBindingRedirects.cache
+C:\Govno po mdk2\prakt 4\prakt 4\obj\Debug\prakt 4.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\prakt 4\prakt 4\obj\Debug\prakt 4.exe
+C:\Govno po mdk2\prakt 4\prakt 4\obj\Debug\prakt 4.pdb
